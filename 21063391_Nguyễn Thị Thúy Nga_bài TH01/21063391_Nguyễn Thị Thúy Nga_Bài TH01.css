@@ -1,49 +1,49 @@
 
 .gradient-text {
-    font-size: 36px; /* Đặt kích thước phông chữ */
-    font-weight: bold; /* Làm đậm chữ */
-    background: blue; /* Tạo gradient từ màu xanh sang tím */
+    font-size: 36px; 
+    font-weight: bold; 
+    background: blue; 
     -webkit-background-clip: text;
     background-clip: text;
-    -webkit-text-fill-color: transparent; /* Làm cho màu nền của chữ trong suốt */
-    display: inline-block; /* Cần thiết để hiệu ứng gradient hoạt động */
+    -webkit-text-fill-color: transparent; 
+    display: inline-block; 
   }
   
   .button-container {
-      text-align: center; /* Căn giữa các nút */
+      text-align: center; 
     }
     .button {
-      background-color: #000000; /* Màu nền của nút */
+      background-color: #000000; 
       border: none;
       color: white;
       padding: 15px 32px;
       text-align: center;
       text-decoration: none;
-      display: inline-block; /* Hiển thị nút trên cùng một hàng */
+      display: inline-block; 
       font-size: 16px;
       margin: 4px 2px;
       cursor: pointer;
     }
     .button:hover {
-      background-color: #45a049; /* Màu nền khi di chuột qua nút */
+      background-color: #45a049; 
     }
   .button-container1 {
-      text-align: center; /* Căn giữa các nút */
+      text-align: center; 
     }
     .button1 {
-      background-color: #76ee00; /* Màu nền của nút */
+      background-color: #76ee00; 
       border: none;
       color: white;
       padding: 15px 32px;
       text-align: center;
       text-decoration: none;
-      display: inline-block; /* Hiển thị nút trên cùng một hàng */
+      display: inline-block;
       font-size: 16px;
       margin: 4px 2px;
       cursor: pointer;
     }
     .button1:hover {
-      background-color: #45a049; /* Màu nền khi di chuột qua nút */
+      background-color: #45a049; 
     }
   .poem{
     padding: 20px;
@@ -51,13 +51,13 @@
     line-height: 0.5;
   }
     .button2 {
-      background-color: #98f5ff; /* Màu nền của nút */
+      background-color: #98f5ff; 
       border: none;
       color: white;
       padding: 15px 32px;
       text-align: center;
       text-decoration: none;
-      display: inline-block; /* Hiển thị nút trên cùng một hàng */
+      display: inline-block;
       font-size: 16px;
       cursor: pointer;
     }
@@ -87,7 +87,7 @@
       box-shadow: 0 0 10px rgba(0,0,0,0.1);
       text-align: center;
       width: 80%;
-      margin: auto; /* Căn giữa khung */
+      margin: auto; 
     }
     .title {
       margin-top: 10px;
@@ -157,10 +157,10 @@
       background: rgba(0, 0, 0, 0.7);
       padding: 20px;
       border-radius: 10px;
-      background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+      background: rgba(0, 0, 0, 0.5); 
       background-image: url('https://anhdepfree.com/wp-content/uploads/2018/11/3d-sky-wallpaper-hinh-nen-bau-troi.jpg');
       background-size: cover;
-      margin: auto; /* Căn giữa khung */
+      margin: auto;
     }
     .info {
       text-align: center;
